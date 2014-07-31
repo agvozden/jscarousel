@@ -1,5 +1,8 @@
 /*
- * Jquery Carousel left / right by agvozden
+ * Jquery Carousel left / right
+ * @author: agvozden
+ * @version 2014
+ * www.gvozden.info 
  */
 (function($) {
 $.fn.carousel = function(options) {
@@ -146,4 +149,3 @@ $.fn.carousel = function(options) {
 	return this;
 }
 })(jQuery);
-
